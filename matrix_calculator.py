@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 29 20:57:21 2023
-
-@author: Admin
-"""
-
 def matrix_mult(x,y):
     
     assert len(x[0]) == len(y)
